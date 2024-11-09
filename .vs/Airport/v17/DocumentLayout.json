@@ -1,0 +1,44 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\BRAYAN\\source\\repos\\Airport\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9D71C201-82A3-4C0E-BB7E-1D89EDFC7662}|Airport\\Airport.dwproj|C:\\Users\\BRAYAN\\source\\repos\\Airport\\Airport\\CUBE_booking.cube||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{9D71C201-82A3-4C0E-BB7E-1D89EDFC7662}|Airport\\Airport.dwproj|solutionrelative:Airport\\CUBE_booking.cube||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 236,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CUBE_booking.cube [Design]",
+              "DocumentMoniker": "C:\\Users\\BRAYAN\\source\\repos\\Airport\\Airport\\CUBE_booking.cube",
+              "RelativeDocumentMoniker": "Airport\\CUBE_booking.cube",
+              "ToolTip": "C:\\Users\\BRAYAN\\source\\repos\\Airport\\Airport\\CUBE_booking.cube [Design]",
+              "RelativeToolTip": "Airport\\CUBE_booking.cube [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-11-09T00:40:47.671Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
